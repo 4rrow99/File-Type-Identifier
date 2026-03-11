@@ -1,9 +1,13 @@
 Enter file path to analize: multitool.sh
 
 Magic Number Analysis:
-Raw Hex: "Insert Raw Hex"
+Raw Hex: "Insert Raw Hex" "Example (754894grasd87rg1d2v3e7895465sef32f1)"
 Detected: Unknown or Text File
 
 File extension: .sh
 
 File command output:
+multitool.sh: Bourne-Again shell scrip, Unicode text, UTF-8 text executable
+
+Note: Check if magic number matches the extension! 
+Press Enter to continue...
